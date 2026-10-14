@@ -62,3 +62,4 @@ npm run start
 **S. Abhiram**
 - GitHub: [@abhi-45-dev](https://github.com/abhi-45-dev)
 - LinkedIn: [in/abhiram-s-990b823aa](https://www.linkedin.com/in/abhiram-s-990b823aa/)
+- hosted url-https://port-omega-navy.vercel.app/
